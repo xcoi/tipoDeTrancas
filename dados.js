@@ -25,7 +25,7 @@ let penteado = [
     titulo: "Francesa",
     descricao:
       "A trança francesa é um clássico atemporal. Começa com três mechas no topo da cabeça e vai incorporando novas mechas dos lados enquanto você trança, criando um efeito tridimensional. É perfeita para ocasiões especiais e pode mais ser adaptada a diferentes comprimentos de cabelo.",
-    link: "https://www.seusite.com.br/tranca-francesa",
+    link: "https://www.allthingshair.com/pt-br/penteados-cortes/trancas/voce-sabe-o-que-e-tranca-francesa/",
     tags: [
       "trança",
       "francesa",
@@ -46,7 +46,7 @@ let penteado = [
     titulo: "Nagô",
     descricao:
       "A trança nagô é uma opção elegante e sofisticada, com um toque africano. Ela é feita rente ao couro cabeludo, criando um efeito de linhas bem definidas. É ideal para quem busca um penteado que dure por mais tempo.",
-    link: "https://www.seusite.com.br/tranca-nago", // Substitua pelo link desejado
+    link: "https://universo.salonline.com.br/tranca-nago-penteados-dicas-e-cuidados-com-as-trancas/", // Substitua pelo link desejado
     tags: [
       "trança",
       "nagô",
@@ -63,7 +63,7 @@ let penteado = [
     titulo: "Fishtail (Espinha de Peixe)",
     descricao:
       "A trança fishtail é conhecida por sua aparência delicada e romântica. É feita dividindo o cabelo em duas partes e cruzando pequenas mechas alternadamente de um lado para o outro. É uma ótima opção para cabelos longos e médios.",
-    link: "https://www.seusite.com.br/tranca-fishtail", // Substitua pelo link desejado
+    link: "https://www.almanaquedamulher.com/cat-cabelos/tipos-de-trancas-penteados/#32_Tranca_Espinha_de_Peixe", // Substitua pelo link desejado
     tags: [
       "trança",
       "fishtail",
@@ -81,7 +81,7 @@ let penteado = [
     titulo: "Dutch Braid (Trança Holandesa)",
     descricao:
       "A trança holandesa é similar à trança francesa, mas as mechas são passadas por baixo em vez de por cima. Isso cria um efeito mais volumoso e destacado. É uma ótima opção para quem busca um visual mais moderno e ousado.",
-    link: "https://www.seusite.com.br/tranca-dutch", // Substitua pelo link desejado
+    link: "https://www.loreal-paris.com.br/tiara-de-tranca-holandesa-aprenda-o-passo-a-passo-do-penteado-que-e-aposta-para-eventos-elegantes", // Substitua pelo link desejado
     tags: [
       "trança",
       "dutch_braid",
@@ -98,7 +98,7 @@ let penteado = [
     titulo: "Cascata",
     descricao:
       "A trança cascata é um penteado delicado e feminino, ideal para ocasiões especiais. Ela cria a ilusão de um fluxo contínuo de cabelo, com mechas soltas caindo como uma cascata. É perfeita para cabelos longos e ondulados.",
-    link: "https://www.seusite.com.com/tranca-cascata", // Substitua pelo link desejado
+    link: "https://www.loreal-paris.com.br/como-fazer-tranca-cascata-passo-a-passo-facil-para-voce-fazer-sozinha", // Substitua pelo link desejado
     tags: [
       "trança",
       "cascata",
@@ -115,7 +115,7 @@ let penteado = [
     titulo: "Fulany",
     descricao:
       "A trança Fulany é um estilo moderno e versátil, caracterizado por tranças finas e delicadas que podem ser feitas em todo o cabelo ou em partes específicas. É ideal para quem busca um visual criativo e personalizado. As tranças Fulany podem ser decoradas com miçangas, fios coloridos ou outros acessórios.",
-    link: "https://www.seusite.com.br/tranca-fulany", // Substitua pelo link desejado
+    link: "https://universo.salonline.com.br/fulani-braids/",
     tags: [
       "trança",
       "fulany",
