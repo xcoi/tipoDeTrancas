@@ -1,3 +1,5 @@
+Este projeto foi resultado do curso de Imersão Dev com Google Gemini feito pela escola de tecnologia Alura:
+
 ## Procurando o penteado perfeito? 
 
 Essa função te ajuda a encontrar o penteado dos seus sonhos! 
